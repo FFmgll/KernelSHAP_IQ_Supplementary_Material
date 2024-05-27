@@ -1,4 +1,7 @@
+# If you are looking for a ready-to-use implementation of KernelSHAP-IQ and the baselines, please refer to the SHAP-IQ package (https://github.com/mmschlk/shapiq)
+
 # 📄 Supplement Material: KernelSHAP-IQ: Weighted Least Square Optimization for Shapley Interactions
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
